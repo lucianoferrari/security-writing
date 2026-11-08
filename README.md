@@ -14,7 +14,10 @@ Essays and articles on security leadership, AI/LLM risk, and offensive security 
 
 ## Published elsewhere
 
-- **Hakin9 Magazine** — multiple articles on offensive security and hardware hacking *(titles and links: {{ADD}})*
+- **Hakin9 Magazine** (paywalled; issue pages linked where public)
+  - *WordPress Security* — Hakin9 Magazine, July 2016
+  - *Troubleshooting VoIP using Wireshark* — Hakin9 OnDemand 09/2012, "Wireshark Explored" issue ([issue page](https://hakin9.org/download/wireshark-explored-in-hakin9-ondemand-0912/))
+  - *Replacing Tokens with Digital Certificates for User Authentication on Remote VPN: Is This a Bad Idea?* — Hakin9 E-book 1/2012, "Public Key Cryptostructure"
 - **LinkedIn** — regular posts on security leadership and AI risk: https://www.linkedin.com/in/lucianoferrari
 - **YouTube (LufSec)** — tutorials and deep dives for ~45K subscribers: https://youtube.com/@lufsec
 - **Inside Cyber Minds podcast** — conversations with security leaders and practitioners
